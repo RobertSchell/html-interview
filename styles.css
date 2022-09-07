@@ -1,0 +1,28 @@
+html { 
+    background: url(https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__340.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+div {
+    border: 2px solid blue;
+    padding: 25px;
+    background-color: rgb(196, 241, 255);
+    -webkit-box-shadow: 10px 5px 15px 5px #000000; 
+    box-shadow: 10px 5px 15px 5px #000000;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.imrad {
+    border-radius: 50px;
+}
+
+li {
+    margin: 10px;
+    font-style: italic;
+}
